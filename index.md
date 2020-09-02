@@ -12,9 +12,9 @@
     </td>
   </tr>
   <tr>
-    <td width="100%">
+    <td colspan="2">
       <h1>作品</h1>
-      <img src="/zuopin.png">
+      <img src="/zuopin.png" width="100%">
     </td>
   </tr>
 </table>
