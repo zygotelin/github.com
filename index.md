@@ -1,3 +1,5 @@
+<a href="/index.html">中文版</a>
+
 <table border="0">
   <tr>
     <td width="75%">
