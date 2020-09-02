@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <h1>作品</h1>
-    <img src="/touxiang.png" width="100%">
+    <img src="/zuopin.png" width="100%">
   </tr>
   <tr>
     <td width="75%">
